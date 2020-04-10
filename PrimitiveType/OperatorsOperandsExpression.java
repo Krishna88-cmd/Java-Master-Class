@@ -49,6 +49,5 @@ public class OperatorsOperandsExpression<isCar> {
         System.out.println("either or both are true");
     }
 
-
 }
 
