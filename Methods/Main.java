@@ -7,7 +7,6 @@ public class Main {
         int levelCompleted=5;
         int bouns=100;
 
-
         calculatesScore(true, 8000, levelCompleted, bouns);
 
         calculatesScore(true, 1000, 8, 200);
