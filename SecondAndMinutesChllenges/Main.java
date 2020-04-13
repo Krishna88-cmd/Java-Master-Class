@@ -12,8 +12,8 @@ public class Main {
             return "invalid value";
         }
         long hours=minutes / 60;
-        long remainingMunites=minutes % 60;
-        return hours + "h" + remainingMunites + "m" + second + "s";
+        long remainingMinutes=minutes % 60;
+        return hours + "h" + remainingMinutes + "m" + second + "s";
 
 
     }
