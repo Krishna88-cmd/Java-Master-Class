@@ -33,7 +33,6 @@ public class Main {
         }
 
 
-
 //        switch (day){
 //            case 0 :
 //                System.out.println("sunday");

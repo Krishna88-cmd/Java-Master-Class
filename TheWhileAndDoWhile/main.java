@@ -8,11 +8,11 @@ public class main {
             count++;
         }
         while ((true)) {
-            if(count == 6){
+            if (count == 6) {
                 break;
-        }
-            System.out.println("count value is " +count);
-            count ++;
+            }
+            System.out.println("count value is " + count);
+            count++;
         }
     }
 }
